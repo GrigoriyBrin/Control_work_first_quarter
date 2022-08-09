@@ -54,6 +54,22 @@ namespace GeekBrains
             return count; 
         }
 
+        public static string[] ArrayOfUpToThreeSymbols(string[] arr, int sizeNewArray)
+        {
+            string[] array = new string[sizeNewArray];
+            int index = 0;
+            int limitation = 3;
+            for (int i = 0; i < arr.Length; i++)
+            {
+                if (arr[i].Length <= limitation)
+                {    
+                    array[index] = arr[i];
+                    index++;
+                }
+            }
+            return array; 
+        }
+
     }
 }
 
