@@ -16,6 +16,19 @@ namespace GeekBrains
             Console.WriteLine();
             
             int sizeNewArray = SizeNewArray(originalArray);
+            if (sizeNewArray == 0)
+            {
+                Console.WriteLine();
+                Console.WriteLine("В исходном массиве все элементы содержат более 3-х символов");
+                Console.WriteLine();
+            }
+            else
+            {
+                string[] resultArray = ArrayOfUpToThreeSymbols(originalArray, sizeNewArray);
+                Console.WriteLine("Отсортированный массив:" );
+                PrintArray(resultArray);
+                Console.WriteLine(); 
+            }
             
         }
 
