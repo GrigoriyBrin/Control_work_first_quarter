@@ -1,0 +1,15 @@
+/Users/grigoriybrin/Documents/Choosing_specialization/Control_work/bin/Debug/net6.0/Control_work
+/Users/grigoriybrin/Documents/Choosing_specialization/Control_work/bin/Debug/net6.0/Control_work.deps.json
+/Users/grigoriybrin/Documents/Choosing_specialization/Control_work/bin/Debug/net6.0/Control_work.runtimeconfig.json
+/Users/grigoriybrin/Documents/Choosing_specialization/Control_work/bin/Debug/net6.0/Control_work.dll
+/Users/grigoriybrin/Documents/Choosing_specialization/Control_work/bin/Debug/net6.0/Control_work.pdb
+/Users/grigoriybrin/Documents/Choosing_specialization/Control_work/obj/Debug/net6.0/Control_work.csproj.AssemblyReference.cache
+/Users/grigoriybrin/Documents/Choosing_specialization/Control_work/obj/Debug/net6.0/Control_work.GeneratedMSBuildEditorConfig.editorconfig
+/Users/grigoriybrin/Documents/Choosing_specialization/Control_work/obj/Debug/net6.0/Control_work.AssemblyInfoInputs.cache
+/Users/grigoriybrin/Documents/Choosing_specialization/Control_work/obj/Debug/net6.0/Control_work.AssemblyInfo.cs
+/Users/grigoriybrin/Documents/Choosing_specialization/Control_work/obj/Debug/net6.0/Control_work.csproj.CoreCompileInputs.cache
+/Users/grigoriybrin/Documents/Choosing_specialization/Control_work/obj/Debug/net6.0/Control_work.dll
+/Users/grigoriybrin/Documents/Choosing_specialization/Control_work/obj/Debug/net6.0/refint/Control_work.dll
+/Users/grigoriybrin/Documents/Choosing_specialization/Control_work/obj/Debug/net6.0/Control_work.pdb
+/Users/grigoriybrin/Documents/Choosing_specialization/Control_work/obj/Debug/net6.0/Control_work.genruntimeconfig.cache
+/Users/grigoriybrin/Documents/Choosing_specialization/Control_work/obj/Debug/net6.0/ref/Control_work.dll
