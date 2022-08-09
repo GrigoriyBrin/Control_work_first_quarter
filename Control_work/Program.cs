@@ -10,6 +10,12 @@ namespace GeekBrains
         public static void Main(string[] args)
         {
             string[] originalArray = OriginalArray();
+
+            Console.WriteLine("Исходный массив: ");
+            PrintArray(originalArray);
+            Console.WriteLine();
+            
+            int sizeNewArray = SizeNewArray(originalArray);
             
         }
 
@@ -29,6 +35,23 @@ namespace GeekBrains
                 array[i] = elementOriginalArray[new Random().Next(elementOriginalArray.Length)];
             }
             return array; 
+        }
+
+        public static int SizeNewArray(string[] arr)
+        {
+            int count = 0;
+            int limitation = 3;
+            for (int i = 0; i < arr.Length; i++)
+            {
+                if (arr[i].Length <= limitation)
+                {    
+                    count++;
+                }
+            }
+            Console.WriteLine("Количество элементов исходного массива с 3-мя и менее символами: " + count);
+            Console.WriteLine();
+
+            return count; 
         }
 
     }
